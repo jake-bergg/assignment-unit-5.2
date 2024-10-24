@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-image: url(record.png);
+    background-repeat: repeat;
+}
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+header {
+    color: lightgray;
+    background-color: #00693E;
+    border: lightgray;
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+}
